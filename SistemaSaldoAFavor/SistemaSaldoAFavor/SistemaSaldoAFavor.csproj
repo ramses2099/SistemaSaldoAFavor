@@ -409,7 +409,7 @@
     <Content Include="Scripts\SBAdmin\Vendor\font-awesome\scss\_spinning.scss" />
     <Content Include="Scripts\SBAdmin\Vendor\font-awesome\scss\_stacked.scss" />
     <Content Include="Scripts\SBAdmin\Vendor\font-awesome\scss\_variables.scss" />
-    <Content Include="Views\Login\Index.cshtml" />
+    <Content Include="Views\Login\index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
