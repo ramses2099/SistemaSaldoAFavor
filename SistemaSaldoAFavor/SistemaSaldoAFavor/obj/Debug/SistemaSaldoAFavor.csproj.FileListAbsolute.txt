@@ -77,6 +77,6 @@ C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\Sis
 C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\obj\Debug\SistemaSaldoAFavor.csprojResolveAssemblyReference.cache
 C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\obj\Debug\SistemaSaldoAFavor.dll
 C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\obj\Debug\SistemaSaldoAFavor.pdb
+C:\Users\jose.encarnacion\Source\Repos\SistemaSaldoAFavor\SistemaSaldoAFavor\SistemaSaldoAFavor\obj\Debug\SistemaSaldoAFavor.csprojResolveAssemblyReference.cache
